@@ -15,4 +15,5 @@ Datastore will be created on the fly, seeded with 'root' user with password '1'
 * clone repository
 * restore dependencies: run command  "npm install" in the root folder of the project
 * run the project: "node server.js"
+* open browser with initial url http://localhost:3000/home.html
  
