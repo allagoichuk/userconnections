@@ -1,0 +1,4 @@
+{"_id":"0","name":"root","password":"$2a$10$IMrVEFxcxkpQoC/Fu57Jt.Tud5XB4mb90kCiLVIhQch9c9P1XUBBK","isAdmin":true,"linkedUsers":["5sKFIuUl6c2XEqrq"]}
+{"name":"zhenya","password":"$2a$10$IMrVEFxcxkpQoC/Fu57Jt.Tud5XB4mb90kCiLVIhQch9c9P1XUBBK","isAdmin":false,"linkedUsers":[],"_id":"0keD2K1Dsv2sBUNX"}
+{"name":"alla","password":"$2a$10$IMrVEFxcxkpQoC/Fu57Jt.Tud5XB4mb90kCiLVIhQch9c9P1XUBBK","isAdmin":false,"linkedUsers":["0","ljWUjmtD2lgBpOy3"],"_id":"5sKFIuUl6c2XEqrq"}
+{"name":"oryna","password":"$2a$10$IMrVEFxcxkpQoC/Fu57Jt.Tud5XB4mb90kCiLVIhQch9c9P1XUBBK","isAdmin":false,"linkedUsers":["5sKFIuUl6c2XEqrq"],"_id":"ljWUjmtD2lgBpOy3"}
